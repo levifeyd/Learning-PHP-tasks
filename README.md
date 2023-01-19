@@ -1,2 +1,2 @@
 # Learning-PHP
-Learning the basics of php.
+Изучение основ языка программирования PHP.
